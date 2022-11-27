@@ -1,0 +1,26 @@
+{
+    "name": "sol-price",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "node": "^16.17.0"
+    },
+    "dependencies": {
+        "@discordjs/rest": "0.1.0-canary.0",
+        "@replit/database": "^2.0.2",
+        "discord-api-types": "^0.24.0",
+        "discord.js": "^13.2.0",
+        "dotenv": "^16.0.2",
+        "express": "^4.17.3",
+        "request": "^2.88.2",
+        "topgg-autoposter": "^2.0.1"
+    }
+}
